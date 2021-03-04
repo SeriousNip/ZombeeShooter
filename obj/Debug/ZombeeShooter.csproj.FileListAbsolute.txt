@@ -18,3 +18,14 @@ D:\Programe visual\ZombeeShooter\obj\Debug\ZombeeShooter.csproj.GenerateResource
 D:\Programe visual\ZombeeShooter\obj\Debug\ZombeeShooter.exe
 D:\Programe visual\ZombeeShooter\obj\Debug\ZombeeShooter.pdb
 D:\Programe visual\ZombeeShooter\obj\Debug\ZombeeShooter.Form2.resources
+D:\Programe visual\ZombeeShooter\ZombeeShooter\bin\Debug\ZombeeShooter.exe.config
+D:\Programe visual\ZombeeShooter\ZombeeShooter\bin\Debug\ZombeeShooter.exe
+D:\Programe visual\ZombeeShooter\ZombeeShooter\bin\Debug\ZombeeShooter.pdb
+D:\Programe visual\ZombeeShooter\ZombeeShooter\obj\Debug\ZombeeShooter.csprojAssemblyReference.cache
+D:\Programe visual\ZombeeShooter\ZombeeShooter\obj\Debug\ZombeeShooter.Form1.resources
+D:\Programe visual\ZombeeShooter\ZombeeShooter\obj\Debug\ZombeeShooter.Form2.resources
+D:\Programe visual\ZombeeShooter\ZombeeShooter\obj\Debug\ZombeeShooter.Properties.Resources.resources
+D:\Programe visual\ZombeeShooter\ZombeeShooter\obj\Debug\ZombeeShooter.csproj.GenerateResource.cache
+D:\Programe visual\ZombeeShooter\ZombeeShooter\obj\Debug\ZombeeShooter.csproj.CoreCompileInputs.cache
+D:\Programe visual\ZombeeShooter\ZombeeShooter\obj\Debug\ZombeeShooter.exe
+D:\Programe visual\ZombeeShooter\ZombeeShooter\obj\Debug\ZombeeShooter.pdb
