@@ -148,8 +148,6 @@ namespace ZombeeShooter
                 Player.Image = Properties.Resources.dead;
                 timer1.Stop();
                 GameOver = true;
-                Form2 fr = new Form2();
-                fr.Show();
                 this.Close();
                 MessageBox.Show("Ai murit","ok");
             }
