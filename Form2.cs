@@ -15,7 +15,12 @@ namespace ZombeeShooter
         public Form2()
         {
             InitializeComponent();
+
+            StartPosition = FormStartPosition.Manual;
+            Location = new Point(150, 150);
+
             button1.BackColor = Color.Transparent;
+            
         }
 
         private void Form2_Load(object sender, EventArgs e)

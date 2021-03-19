@@ -27,6 +27,8 @@ namespace ZombeeShooter
         public Form1()
         {
             InitializeComponent();
+            StartPosition = FormStartPosition.Manual;
+            Location = new Point(150,150);
         }
 
         void DropAmmo()
